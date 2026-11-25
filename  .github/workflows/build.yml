@@ -1,4 +1,4 @@
-name: Build dmVPN APK
+name:Build dmVPN APK
 
 on:
   workflow_dispatch:
